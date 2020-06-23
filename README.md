@@ -1,3 +1,10 @@
+This is meant to help track employees in a directory. Not sure what I am doing. After starting this, I felt a little overwhelmed by all that creating the React app brings in. Might need help deploying this.
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
